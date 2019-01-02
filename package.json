@@ -1,0 +1,23 @@
+{
+  "name": "rhino.dog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "surge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bantic/www.rhino.dog.git"
+  },
+  "keywords": [],
+  "author": "Cory Forsyth <cory.forsyth@gmail.com> (http://coryforsyth.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bantic/www.rhino.dog/issues"
+  },
+  "homepage": "https://github.com/bantic/www.rhino.dog#readme",
+  "devDependencies": {
+    "surge": "^0.20.1"
+  }
+}

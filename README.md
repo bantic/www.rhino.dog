@@ -1,0 +1,3 @@
+# Deploy
+
+`npm run deploy`

@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bantic/www.rhino.dog#readme",
   "devDependencies": {
-    "surge": "^0.20.1"
+    "surge": "^0.20.5"
   }
 }
